@@ -9,7 +9,7 @@ im a begginer so i though this might showcase my skills !
 
 ### 1- use more meanigfull alphas !
 ### 2- gread search the hyperprams for a good combnation !
-### 3- use it in real world!
+### 3- test it in real world!
 
 ## indactors
 i use tradingview for indactors . here are the links for them :
