@@ -19,4 +19,4 @@ The following indicators, sourced from TradingView, are used as features:
 * **PrasiGanFanFib:** [https://www.tradingview.com/script/TvkU7Pav-PrasiGanFanFib/](https://www.tradingview.com/script/TvkU7Pav-PrasiGanFanFib/) (Extrema points are extracted)
 * **Gann High Low:** [https://www.tradingview.com/script/XNQSLIYb-Gann-High-Low/](https://www.tradingview.com/script/XNQSLIYb-Gann-High-Low/)
 * **RSI (14/7):** [https://www.tradingview.com/support/solutions/43000502338/](https://www.tradingview.com/support/solutions/43000502338/)
-* **Gann Swing Chart (One Bar):** [https://www.tradingview.com/script/R7VWnhIV-Gann-Swing-Chart-One-Bar/](https://www.tradingview.com/script/R7VWnhIV-Gann-Swing-Chart-One-Bar/) (Used to determine up/down day trends)
+* **Gann Swing Chart (One Bar):** [https://www.tradingview.com/script/R7VWnhIV-Gann-Swing-Chart-One-Bar/](https://www.tradingview.com/script/R7VWnhIV-Gann-Swing-Chart-One-Bar/) (Used to determine up/down day )
