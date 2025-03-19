@@ -14,4 +14,12 @@ im a begginer so i though this might showcase my skills !
 ## indactors
 i use tradingview for indactors . here are the links for them :
 
-https://www.tradingview.com/script/TvkU7Pav-PrasiGanFanFib/
+**PrasiGanFanFib**: https://www.tradingview.com/script/TvkU7Pav-PrasiGanFanFib/  (i use the extrem points from this indcator)
+
+**Gann High Low**: https://www.tradingview.com/script/XNQSLIYb-Gann-High-Low/
+
+**RSI14/7**: https://www.tradingview.com/support/solutions/43000502338/
+
+**gann swing cahrt**: https://www.tradingview.com/script/R7VWnhIV-Gann-Swing-Chart-One-Bar/ (i use it for if its a up day or a down day )
+
+
